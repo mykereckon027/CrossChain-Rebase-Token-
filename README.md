@@ -1,2 +1,2 @@
-# CrossChain-Rebase-Token-
+# CrossChain-Rebase-Token
 A Cross-Chain token Using CCIP Standard 
